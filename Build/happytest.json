@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "happy99universe",
+"dataUrl": "happytest.data.unityweb",
+"asmCodeUrl": "happytest.asm.code.unityweb",
+"asmMemoryUrl": "happytest.asm.memory.unityweb",
+"asmFrameworkUrl": "happytest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
